@@ -64,3 +64,6 @@
 
 # Ignore floder /Logs 
 /Logs/**
+
+# Ignore vs cache floder
+/.vs/starve/**
